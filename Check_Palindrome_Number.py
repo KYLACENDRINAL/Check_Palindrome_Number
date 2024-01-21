@@ -14,4 +14,6 @@ def palindrome(number):
     
     
 # Give values
-# print the result
+value1=palindrome(121)
+value2=palindrome(125)
+
